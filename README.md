@@ -30,7 +30,7 @@ and really enjoy learning Python, HTML, CSS, Markdown and so on.
 ## About Me ##
 
 - I really like cats
-- I play professional Yu-Gi-Oh
+- I play Yu-Gi-Oh
 
 (Yu-Gi-Oh > Magic)
 
