@@ -9,7 +9,7 @@ Meowww Meeeow Meow Meeeow Meow Meeow Meow, Meeow, Meooow, Meow Meeow.
 ## Meoow Meeow Meow Meoww ##
 
 - Meeow Meeow Meow [Meoww](https://en.wikipedia.org/wiki/Cat)
-- Meow Meooww Meow Meoowww Meow Meeow Meow
+- Meow Meooww Meow Meoowww Meow [Meeow Meow](https://www.yugioh-card.com/eu/de/)
 
 (Meow Meow Meeow Meow > Meow Meow Meow)
 
@@ -22,6 +22,7 @@ Meowww Meeeow Meow Meeeow Meow Meeow Meow, Meeow, Meooow, Meow Meeow.
 
 - Meeeow Meoww Meow Meoww
 - Meeeeow Meeeow Meow Meoww Meoow :(
+- Meoooow Meoow Meeeow Meow [Meoww](https://github.com/rufuzius) Meow Meow Meowww Meoow
 
 ---
 
@@ -36,16 +37,17 @@ and really enjoy learning Python, HTML, CSS, Markdown and so on.
 ## About Me ##
 
 - I really like [cats](https://en.wikipedia.org/wiki/Cat)
-- I play Yu-Gi-Oh
+- I play [Yu-Gi-Oh](https://www.yugioh-card.com/eu/de/)
 
 (Yu-Gi-Oh > Magic)
 
 - I really enjoy learning about coding, Git and GitHub
 - I spend too much money on trying to pull Quarter Centuries
 - Pineapple on Pizza is based and i am tired of pretending that it's not
-- fuck you, if you disagree with me
+- meow yourself, if you disagree with me
 - i often crash out
 - sadly i suck at coding :(
+- please donate to this [guy](https://github.com/rufuzius), he need money fast!
 
 now time for some cats!
 
