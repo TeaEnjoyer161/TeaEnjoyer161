@@ -17,7 +17,11 @@ Meowww Meeeow Meow Meeeow Meow Meeow Meow, Meeow, Meooow, Meow Meeow.
 - Meoowww Meow Meow Meeow Meow Meow Meow Meeow Meow Meow Meow
 - Meeow Meow Meow Meow Meow Meow Meow Meeow Meow Meow Meow Meow Meow Meow
 - Meow Meeow Meow Meoww Meow Meow
+
 (Meow Meeow Meoww Meeow)
+
+- Meeeow Meoww Meow Meoww
+- Meeeeow Meeeow Meow Meoww Meoow :(
 
 ---
 
@@ -40,7 +44,8 @@ and really enjoy learning Python, HTML, CSS, Markdown and so on.
 - I spend too much money on trying to pull Quarter Centuries
 - Pineapple on Pizza is based and i am tired of pretending that it's not
 - fuck you, if you disagree with me
-(and if you play stun)
+- i often crash out
+- sadly i suck at coding :(
 
 now time for some cats!
 
