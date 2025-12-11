@@ -20,7 +20,6 @@ Meowww Meeeow Meow Meeeow Meow Meeow Meow, Meeow, Meooow, Meow Meeow.
 
 (Meow Meeow Meoww Meeow)
 
-- Meeeow Meoww Meow Meoww
 - Meeeeow Meeeow Meow Meoww Meoow :(
 - Meoooow Meoow Meeeow Meow [Meoww](https://github.com/rufuzius) Meow Meow Meowww Meoow
 
@@ -42,12 +41,10 @@ and really enjoy learning Python, HTML, CSS, Markdown and so on.
 (Yu-Gi-Oh > Magic)
 
 - I really enjoy learning about coding, Git and GitHub
-- I spend too much money on trying to pull Quarter Centuries
 - Pineapple on Pizza is based and i am tired of pretending that it's not
 - meow yourself, if you disagree with me
-- i often crash out
 - sadly i suck at coding :(
-- please donate to this [guy](https://github.com/rufuzius), he need money fast!
+- please donate to this [guy](https://github.com/rufuzius), he needs money fast!
 
 now time for some cats!
 
