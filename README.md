@@ -124,8 +124,6 @@ __Click [HERE](https://matias.me/nsfw/) for infinite V-Bucks and 2 free bananas!
     <summary>UUH???</summary>
 
   ![UUH!!??](cats/uuh-4x.gif)
-  
-  UUUUHHHH?????????
 
   </details>
   </details>
