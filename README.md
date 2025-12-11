@@ -59,11 +59,11 @@ and really enjoy learning Python, HTML, CSS, Markdown and so on.
 - sadly i suck at coding :(
 - please donate to this [guy](https://github.com/rufuzius), he needs money fast!
 
-!!!
+---
 
-Click [HERE](https://matias.me/nsfw/) for infinite V-Bucks and 2 free bananas!!!
+__Click [HERE](https://matias.me/nsfw/) for infinite V-Bucks and 2 free bananas!!!__
 
-!!!
+---
 
 <details>
   <summary>now time for some cats!</summary>
