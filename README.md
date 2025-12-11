@@ -46,46 +46,69 @@ and really enjoy learning Python, HTML, CSS, Markdown and so on.
 - sadly i suck at coding :(
 - please donate to this [guy](https://github.com/rufuzius), he needs money fast!
 
-now time for some cats!
+<details>
+  <summary>now time for some cats!</summary>
+  
+  ![Cats are beautiful!](cats/cat9.png)
+  
+  <details>
+    <summary>how about some more</summary>
+    
+  ![Cats are beautiful!](cats/cat7.png)
+  
+  <details>
+    <summary>and more</summary>
+    
+  ![Cats are beautiful!](cats/cat1.png)
 
-![Cats are beautiful!](cats/cat9.png)
+  <details>
+    <summary>and even more</summary>
 
-how about some more
+  ![Cats are beautiful!](cats/cat4.png)
 
-![Cats are beautiful!](cats/cat7.png)
+  <details>
+    <summary>have some more cats</summary>
 
-and more
+  ![Cats are beautiful!](cats/cat2.png)
+  
+  <details>
+    <summary>another one</summary>
+    
+  ![Cats are beautiful!](cats/cat3.png)
 
-![Cats are beautiful!](cats/cat1.png)
+  <details>
+    <summary>and another one</summary>
 
-and even more
+  ![Cats are beautiful!](cats/cat5.png)
 
-![Cats are beautiful!](cats/cat4.png)
+  <details>
+    <summary>and another one</summary>
+    
+  ![Cats are beautiful!](cats/cat6.png)
 
-have some more cats
+  <details>
+    <summary>More!</summary>
 
-![Cats are beautiful!](cats/cat2.png)
+  ![Cats are beautiful!](cats/cat8.png)
 
-another one
+  <details>
+    <summary>MORE!</summary>
+    
+  ![Cats are beautiful!](cats/cat10.png)
 
-![Cats are beautiful!](cats/cat3.png)
+  <details>
+    <summary>MOOOOOOOOOOOOORE!!!</summary>
+    
+  ![Cats are beautiful!](cats/cat11.png)
 
-and another one
-
-![Cats are beautiful!](cats/cat5.png)
-
-and another one
-
-![Cats are beautiful!](cats/cat6.png)
-
-More!
-
-![Cats are beautiful!](cats/cat8.png)
-
-MORE!
-
-![Cats are beautiful!](cats/cat10.png)
-
-MOOOOOOOOOOOOORE!!!
-
-![Cats are beautiful!](cats/cat11.png)
+  </details>
+  </details>
+  </details>
+  </details>
+  </details>
+  </details>
+  </details>
+  </details>
+  </details>
+  </details>
+</details>
