@@ -4,6 +4,8 @@ Meow Meooow Meow Meeow Meeeow Meoow Meow Meoow Meow
 
 Meowww Meeeow Meow Meeeow Meow Meeow Meow, Meeow, Meooow, Meow Meeow.
 
+![Maxwell](cats/maxwell-4x.gif)
+
 ---
 
 ## Meoow Meeow Meow Meoww ##
@@ -38,8 +40,19 @@ and really enjoy learning Python, HTML, CSS, Markdown and so on.
 - I really like [cats](https://en.wikipedia.org/wiki/Cat)
 - I play [Yu-Gi-Oh](https://www.yugioh-card.com/eu/de/)
 
-(Yu-Gi-Oh > Magic)
+<details>
+  <summary>Yu-Gi-Oh > Magic</summary>
 
+  ![OM](cats/om-4x.gif)
+
+  Why did you click on this?? Nerd! xDD Haha xDDD Point and Laugh!!! xDDD
+  
+  Did you really think I put something valuable here??? xDDD
+
+  [Actually?! >:)](https://is.gd/myprivatecredentials)
+
+</details>
+  
 - I really enjoy learning about coding, Git and GitHub
 - Pineapple on Pizza is based and i am tired of pretending that it's not
 - meow yourself, if you disagree with me
