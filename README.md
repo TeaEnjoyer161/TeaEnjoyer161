@@ -25,6 +25,8 @@ Meowww Meeeow Meow Meeeow Meow Meeow Meow, Meeow, Meooow, Meow Meeow.
 - Meeeeow Meeeow Meow Meoww Meoow :(
 - Meoooow Meoow Meeeow Meow [Meoww](https://github.com/rufuzius) Meow Meow Meowww Meoow
 
+![CatPunch](cats/catPunchU-4x.gif)
+
 ---
 
 Translation:
