@@ -6,6 +6,7 @@ I am currently in my second year of vocational training.
 ![Maxwell](cats/maxwell-4x.gif)
 
 I created this account to learn more about programming.
+
 As of now i am learning Python, HTML, CSS & JavaScript.
 
 ---
