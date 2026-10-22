@@ -12,7 +12,7 @@ I created this account to learn more about Python, HTML, CSS, Markdown and so on
 
 now time for some cats!
 
-![Cats are beautiful!](cats/cat9.png)
+[!Cats are beautiful!](cats/cat9.png)
 
 how about some more
 
