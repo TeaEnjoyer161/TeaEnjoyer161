@@ -3,53 +3,89 @@
 
 I am currently in my second year of vocational training.
 
-I created this account to learn more about Python, HTML, CSS, Markdown and so on.
+![Maxwell](cats/maxwell-4x.gif)
+
+I created this account to learn more about programming.
+As of now i am learning Python, HTML, CSS & JavaScript.
+
+---
 
 ## About Me ##
 
 - I really like cats
 - I really enjoy learning about coding, Git and GitHub
 
-now time for some cats!
+---
 
-![!Cats are beautiful!](cats/cat9.png)
+<details>
+  <summary>now time for some cats!</summary>
+  
+  ![Cats are beautiful!](cats/cat9.png)
+  
+  <details>
+    <summary>how about some more</summary>
 
-how about some more
+  ![Cats are beautiful!](cats/cat7.png)
+  
+  <details>
+    <summary>and more</summary>
 
-![Cats are beautiful!](cats/cat7.png)
+  ![Cats are beautiful!](cats/cat1.png)
 
-and more
+  <details>
+    <summary>and even more</summary>
 
-![Cats are beautiful!](cats/cat1.png)
+  ![Cats are beautiful!](cats/cat4.png)
 
-and even more
+  <details>
+    <summary>have some more cats</summary>
 
-![Cats are beautiful!](cats/cat4.png)
+  ![Cats are beautiful!](cats/cat2.png)
+  
+  <details>
+    <summary>another one</summary>
 
-have some more cats
+  ![Cats are beautiful!](cats/cat3.png)
 
-![Cats are beautiful!](cats/cat2.png)
+  <details>
+    <summary>and another one</summary>
 
-another one
+  ![Cats are beautiful!](cats/cat5.png)
 
-![Cats are beautiful!](cats/cat3.png)
+  <details>
+    <summary>and another one</summary>
 
-and another one
+  ![Cats are beautiful!](cats/cat6.png)
 
-![Cats are beautiful!](cats/cat5.png)
+  <details>
+    <summary>More!</summary>
 
-and another one
+  ![Cats are beautiful!](cats/cat8.png)
 
-![Cats are beautiful!](cats/cat6.png)
+  <details>
+    <summary>MORE!</summary>
 
-More!
+  ![Cats are beautiful!](cats/cat10.png)
 
-![Cats are beautiful!](cats/cat8.png)
+  <details>
+    <summary>MOOOOOOOOOOOOORE!!!</summary>
 
-MORE!
+  ![Cats are beautiful!](cats/cat11.png)
 
-![Cats are beautiful!](cats/cat10.png)
+  <details>
+    <summary>UUH???</summary>
 
-MOOOOOOOOOOOOORE!!!
+  ![UUH!!??](cats/uuh-4x.gif)
 
-![Cats are beautiful!](cats/cat11.png)
+  </details>
+  </details>
+  </details>
+  </details>
+  </details>
+  </details>
+  </details>
+  </details>
+  </details>
+  </details>
+  </details>
+</details>
